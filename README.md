@@ -1,4 +1,4 @@
-# YouTube_Clone (Not Responsive)
+# YouTube_Clone
 
 A new Flutter project.
 
